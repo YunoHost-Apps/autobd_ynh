@@ -3,20 +3,20 @@
 Он НЕ ДОЛЖЕН редактироваться вручную.
 -->
 
-# Autobd для YunoHost
+# AutoBD для YunoHost
 
 [![Уровень интеграции](https://dash.yunohost.org/integration/autobd.svg)](https://ci-apps.yunohost.org/ci/apps/autobd/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/autobd.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/autobd.maintain.svg)
 
-[![Установите Autobd с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=autobd)
+[![Установите AutoBD с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=autobd)
 
 *[Прочтите этот README на других языках.](./ALL_README.md)*
 
-> *Этот пакет позволяет Вам установить Autobd быстро и просто на YunoHost-сервер.*  
+> *Этот пакет позволяет Вам установить AutoBD быстро и просто на YunoHost-сервер.*  
 > *Если у Вас нет YunoHost, пожалуйста, посмотрите [инструкцию](https://yunohost.org/install), чтобы узнать, как установить его.*
 
 ## Обзор
 
-AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter sous forme d’image. Elle est fournie avec une collection de fonds et de personnages sous licence libre, mais il est possible d’utiliser ses propres contenus depuis le stockage de l’ordinateur. L’application facilite l’attribution des crédits en apposant automatiquement la mention adéquate à mesure que l’on utilise les dessins fournis. Cela permet de respecter le droit d’auteur plus facilement et y sensibilise les élèves.
+AutoBD makes it easy to create a comic strip and export it as an image. It comes with a collection of freely licensed backgrounds and characters, but you can use your own content from your computer’s storage. The application makes it easy to give credit by automatically adding the appropriate mention as you use the provided drawings. This makes it easier to respect copyright and raises awareness among students.
 
 
 **Поставляемая версия:** 1.0~ynh1
@@ -25,7 +25,7 @@ AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter so
 
 ## Снимки экрана
 
-![Снимок экрана Autobd](./doc/screenshots/screenshot.png)
+![Снимок экрана AutoBD](./doc/screenshots/screenshot.png)
 
 ## Документация и ресурсы
 

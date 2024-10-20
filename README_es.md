@@ -3,20 +3,20 @@ Este archivo README esta generado automaticamente<https://github.com/YunoHost/ap
 No se debe editar a mano.
 -->
 
-# Autobd para Yunohost
+# AutoBD para Yunohost
 
 [![Nivel de integración](https://dash.yunohost.org/integration/autobd.svg)](https://ci-apps.yunohost.org/ci/apps/autobd/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/autobd.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/autobd.maintain.svg)
 
-[![Instalar Autobd con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=autobd)
+[![Instalar AutoBD con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=autobd)
 
 *[Leer este README en otros idiomas.](./ALL_README.md)*
 
-> *Este paquete le permite instalarAutobd rapidamente y simplement en un servidor YunoHost.*  
+> *Este paquete le permite instalarAutoBD rapidamente y simplement en un servidor YunoHost.*  
 > *Si no tiene YunoHost, visita [the guide](https://yunohost.org/install) para aprender como instalarla.*
 
 ## Descripción general
 
-AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter sous forme d’image. Elle est fournie avec une collection de fonds et de personnages sous licence libre, mais il est possible d’utiliser ses propres contenus depuis le stockage de l’ordinateur. L’application facilite l’attribution des crédits en apposant automatiquement la mention adéquate à mesure que l’on utilise les dessins fournis. Cela permet de respecter le droit d’auteur plus facilement et y sensibilise les élèves.
+AutoBD makes it easy to create a comic strip and export it as an image. It comes with a collection of freely licensed backgrounds and characters, but you can use your own content from your computer’s storage. The application makes it easy to give credit by automatically adding the appropriate mention as you use the provided drawings. This makes it easier to respect copyright and raises awareness among students.
 
 
 **Versión actual:** 1.0~ynh1
@@ -25,7 +25,7 @@ AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter so
 
 ## Capturas
 
-![Captura de Autobd](./doc/screenshots/screenshot.png)
+![Captura de AutoBD](./doc/screenshots/screenshot.png)
 
 ## Documentaciones y recursos
 
