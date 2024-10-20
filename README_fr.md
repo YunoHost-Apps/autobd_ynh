@@ -24,7 +24,7 @@ AutoBD makes it easy to create a comic strip and export it as an image. It comes
 
 ## Captures d’écran
 
-![Capture d’écran de Autobd](./doc/screenshots/example.jpg)
+![Capture d’écran de Autobd](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 

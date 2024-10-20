@@ -25,7 +25,7 @@ AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter so
 
 ## 截图
 
-![Autobd 的截图](./doc/screenshots/example.jpg)
+![Autobd 的截图](./doc/screenshots/screenshot.png)
 
 ## 文档与资源
 

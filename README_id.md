@@ -25,7 +25,7 @@ AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter so
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada Autobd](./doc/screenshots/example.jpg)
+![Tangkapan Layar pada Autobd](./doc/screenshots/screenshot.png)
 
 ## Dokumentasi dan sumber daya
 
