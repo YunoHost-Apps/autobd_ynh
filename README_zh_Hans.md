@@ -3,20 +3,20 @@
 请勿手动编辑。
 -->
 
-# YunoHost 上的 Autobd
+# YunoHost 上的 AutoBD
 
 [![集成程度](https://dash.yunohost.org/integration/autobd.svg)](https://ci-apps.yunohost.org/ci/apps/autobd/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/autobd.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/autobd.maintain.svg)
 
-[![使用 YunoHost 安装 Autobd](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=autobd)
+[![使用 YunoHost 安装 AutoBD](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=autobd)
 
 *[阅读此 README 的其它语言版本。](./ALL_README.md)*
 
-> *通过此软件包，您可以在 YunoHost 服务器上快速、简单地安装 Autobd。*  
+> *通过此软件包，您可以在 YunoHost 服务器上快速、简单地安装 AutoBD。*  
 > *如果您还没有 YunoHost，请参阅[指南](https://yunohost.org/install)了解如何安装它。*
 
 ## 概况
 
-AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter sous forme d’image. Elle est fournie avec une collection de fonds et de personnages sous licence libre, mais il est possible d’utiliser ses propres contenus depuis le stockage de l’ordinateur. L’application facilite l’attribution des crédits en apposant automatiquement la mention adéquate à mesure que l’on utilise les dessins fournis. Cela permet de respecter le droit d’auteur plus facilement et y sensibilise les élèves.
+AutoBD makes it easy to create a comic strip and export it as an image. It comes with a collection of freely licensed backgrounds and characters, but you can use your own content from your computer’s storage. The application makes it easy to give credit by automatically adding the appropriate mention as you use the provided drawings. This makes it easier to respect copyright and raises awareness among students.
 
 
 **分发版本：** 1.0~ynh1
@@ -25,7 +25,7 @@ AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter so
 
 ## 截图
 
-![Autobd 的截图](./doc/screenshots/screenshot.png)
+![AutoBD 的截图](./doc/screenshots/screenshot.png)
 
 ## 文档与资源
 
