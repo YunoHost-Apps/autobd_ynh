@@ -25,7 +25,7 @@ AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter so
 
 ## Снимки экрана
 
-![Снимок экрана Autobd](./doc/screenshots/example.jpg)
+![Снимок экрана Autobd](./doc/screenshots/screenshot.png)
 
 ## Документация и ресурсы
 

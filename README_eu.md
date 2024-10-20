@@ -25,7 +25,7 @@ AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter so
 
 ## Pantaila-argazkiak
 
-![Autobd(r)en pantaila-argazkia](./doc/screenshots/example.jpg)
+![Autobd(r)en pantaila-argazkia](./doc/screenshots/screenshot.png)
 
 ## Dokumentazioa eta baliabideak
 

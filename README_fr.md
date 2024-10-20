@@ -16,8 +16,7 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Ceci est une fausse description des fonctionalités de l'app
-
+AutoBD makes it easy to create a comic strip and export it as an image. It comes with a collection of freely licensed backgrounds and characters, but you can use your own content from your computer’s storage. The application makes it easy to give credit by automatically adding the appropriate mention as you use the provided drawings. This makes it easier to respect copyright and raises awareness among students.
 
 **Version incluse :** 1.0~ynh1
 
@@ -25,7 +24,7 @@ Ceci est une fausse description des fonctionalités de l'app
 
 ## Captures d’écran
 
-![Capture d’écran de Autobd](./doc/screenshots/example.jpg)
+![Capture d’écran de Autobd](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 
