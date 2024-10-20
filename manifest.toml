@@ -3,7 +3,7 @@
 packaging_format = 2
 
 id = "autobd"
-name = "Autobd"
+name = "AutoBD"
 description.en = "Application for creating a comic strip"
 description.fr = "Application permettant de réaliser une bande dessinée"
 
