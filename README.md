@@ -19,7 +19,7 @@ It shall NOT be edited by hand.
 AutoBD makes it easy to create a comic strip and export it as an image. It comes with a collection of freely licensed backgrounds and characters, but you can use your own content from your computer’s storage. The application makes it easy to give credit by automatically adding the appropriate mention as you use the provided drawings. This makes it easier to respect copyright and raises awareness among students.
 
 
-**Shipped version:** 1.0~ynh1
+**Shipped version:** 1.0~ynh2
 
 **Demo:** <https://educajou.forge.apps.education.fr/autobd>
 
