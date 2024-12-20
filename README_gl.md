@@ -5,7 +5,9 @@ NON debe editarse manualmente.
 
 # AutoBD para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/autobd.svg)](https://ci-apps.yunohost.org/ci/apps/autobd/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/autobd.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/autobd.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/autobd)](https://ci-apps.yunohost.org/ci/apps/autobd/)
+![Estado de funcionamento](https://apps.yunohost.org/badge/state/autobd)
+![Estado de mantemento](https://apps.yunohost.org/badge/maintained/autobd)
 
 [![Instalar AutoBD con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=autobd)
 
@@ -19,7 +21,7 @@ NON debe editarse manualmente.
 AutoBD makes it easy to create a comic strip and export it as an image. It comes with a collection of freely licensed backgrounds and characters, but you can use your own content from your computer’s storage. The application makes it easy to give credit by automatically adding the appropriate mention as you use the provided drawings. This makes it easier to respect copyright and raises awareness among students.
 
 
-**Versión proporcionada:** 1.0~ynh2
+**Versión proporcionada:** 1.0~ynh3
 
 **Demo:** <https://educajou.forge.apps.education.fr/autobd>
 
