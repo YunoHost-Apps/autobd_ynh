@@ -7,7 +7,7 @@ name = "AutoBD"
 description.en = "Application for creating a comic strip"
 description.fr = "Application permettant de réaliser une bande dessinée"
 
-version = "1.0~ynh2"
+version = "1.0~ynh3"
 
 maintainers = ["eric_G"]
 
@@ -47,7 +47,7 @@ ram.runtime = "150M"
 
     [resources.sources.main]
     url = "https://forge.apps.education.fr/educajou/autobd/-/archive/main/autobd-main.tar.gz"
-    sha256 = "a9fd9ead54e251e454786bfbd9f9b24c304b3a89d238bc8bfe37e523f4fa6813"
+    sha256 = "c1040b9f19e219b189c16f46f7057fc8dc95c4012fc5000188f58b9693b1847d"
 
     [resources.system_user]
 
