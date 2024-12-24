@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # AutoBD pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/autobd.svg)](https://ci-apps.yunohost.org/ci/apps/autobd/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/autobd.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/autobd.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/autobd)](https://ci-apps.yunohost.org/ci/apps/autobd/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/autobd)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/autobd)
 
 [![Installer AutoBD avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=autobd)
 
@@ -19,7 +21,7 @@ Il NE doit PAS être modifié à la main.
 AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter sous forme d’image. Elle est fournie avec une collection de fonds et de personnages sous licence libre, mais il est possible d’utiliser ses propres contenus depuis le stockage de l’ordinateur. L’application facilite l’attribution des crédits en apposant automatiquement la mention adéquate à mesure que l’on utilise les dessins fournis. Cela permet de respecter le droit d’auteur plus facilement et y sensibilise les élèves.
 
 
-**Version incluse :** 1.0~ynh2
+**Version incluse :** 1.0~ynh3
 
 **Démo :** <https://educajou.forge.apps.education.fr/autobd>
 
