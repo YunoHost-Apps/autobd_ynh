@@ -21,7 +21,7 @@ Il NE doit PAS être modifié à la main.
 AutoBD permet de réaliser facilement une bande dessinée, et de l’exporter sous forme d’image. Elle est fournie avec une collection de fonds et de personnages sous licence libre, mais il est possible d’utiliser ses propres contenus depuis le stockage de l’ordinateur. L’application facilite l’attribution des crédits en apposant automatiquement la mention adéquate à mesure que l’on utilise les dessins fournis. Cela permet de respecter le droit d’auteur plus facilement et y sensibilise les élèves.
 
 
-**Version incluse :** 1.0~ynh3
+**Version incluse :** 1.0~ynh4
 
 **Démo :** <https://educajou.forge.apps.education.fr/autobd>
 
