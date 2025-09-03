@@ -11,12 +11,16 @@ It shall NOT be edited by hand.
 Application for creating a comic strip
 
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://educajou.forge.apps.education.fr/autobd)
-[![Version: 1.0~ynh5](https://img.shields.io/badge/Version-1.0~ynh5-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/autobd/)
+[![Version: 1.0~ynh5](https://img.shields.io/badge/Version-1.0~ynh5-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/autobd/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/autobd"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
 <a href="https://github.com/YunoHost-Apps/autobd_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
 </div>
+
+
+## Screenshots
+![Screenshot of AutoBD](./doc/screenshots/screenshot.png)
 
 ## 📦 Developer info
 
