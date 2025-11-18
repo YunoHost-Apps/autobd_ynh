@@ -4,10 +4,10 @@ packaging_format = 2
 
 id = "autobd"
 name = "AutoBD"
-description.en = "Application for creating a comic strip"
-description.fr = "Application permettant de réaliser une bande dessinée"
+description.en = "Quickly create comic strips from a web interface"
+description.fr = "Créez rapidement des bandes dessinées depuis une interface web"
 
-version = "1.0~ynh5"
+version = "2025.11.05~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -47,8 +47,8 @@ ram.runtime = "150M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://forge.apps.education.fr/educajou/autobd/-/archive/main/autobd-main.tar.gz"
-    sha256 = "fe624bbbf89225fcdc27f2695d494f54afda7beeabc6b24198688d493d86156c"
+    url = "https://forge.apps.education.fr/educajou/autobd/-/archive/c2a631f74cd851cfd0f84d9a5e680ffa7d6a2f4b/autobd-main-c2a631f74cd851cfd0f84d9a5e680ffa7d6a2f4b.tar.gz"
+    sha256 = "cc481c241297c7059855fe67a07e64afcf4a04b667675c6a0a3e243782dd9ef5"
 
     autoupdate.strategy = "latest_gitlab_commit"
 
