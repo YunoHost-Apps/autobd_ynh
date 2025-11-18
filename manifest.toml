@@ -47,8 +47,8 @@ ram.runtime = "150M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://forge.apps.education.fr/educajou/autobd/-/archive/main/autobd-main.tar.gz"
-    sha256 = "fe624bbbf89225fcdc27f2695d494f54afda7beeabc6b24198688d493d86156c"
+    url = "https://forge.apps.education.fr/educajou/autobd/-/archive/c2a631f74cd851cfd0f84d9a5e680ffa7d6a2f4b/autobd-main-c2a631f74cd851cfd0f84d9a5e680ffa7d6a2f4b.tar.gz"
+    sha256 = "07bdafdf59ba41283929aa60aaf3b2459ea4779b1c8d669a3dceaa15660be9df"
 
     autoupdate.strategy = "latest_gitlab_commit"
 
