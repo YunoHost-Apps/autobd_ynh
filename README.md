@@ -8,7 +8,7 @@ It shall NOT be edited by hand.
   AutoBD, packaged for YunoHost
 </h1>
 
-Application for creating a comic strip
+Quickly create comic strips from a web interface
 
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://educajou.forge.apps.education.fr/autobd)
 [![Version: 1.0~ynh5](https://img.shields.io/badge/Version-1.0~ynh5-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/autobd/)
