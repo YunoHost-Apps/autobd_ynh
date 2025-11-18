@@ -4,8 +4,8 @@ packaging_format = 2
 
 id = "autobd"
 name = "AutoBD"
-description.en = "Application for creating a comic strip"
-description.fr = "Application permettant de réaliser une bande dessinée"
+description.en = "Quickly create comic strips from a web interface"
+description.fr = "Créez rapidement des bandes dessinées depuis une interface web"
 
 version = "1.0~ynh5"
 
